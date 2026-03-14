@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(247, 247, 173);
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  max-width: 60%;
+  display: block;
+  margin: 0 auto;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.links a {
+  margin: 10px;
+}
